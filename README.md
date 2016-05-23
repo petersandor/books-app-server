@@ -2,6 +2,10 @@
 
 This project was generated with the [Express API Generator](https://github.com/ioneyed/generator-expressjs-api) version 0.0.1.
 
+## About
+
+This repo is the backend part for [books-app-client](https://github.com/petersandor/books-app-client). Just a simple REST API.
+
 ## Getting Started
 
 ### Prerequisites
@@ -15,9 +19,6 @@ This project was generated with the [Express API Generator](https://github.com/i
 ### Developing
 
 1. Run `npm install` to install server dependencies.
-
-
-
 2. Run `grunt serve` to start the development server. It should automatically open the client in your browser when ready.
 
 ## Build & development
