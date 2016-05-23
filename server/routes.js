@@ -23,7 +23,7 @@ module.exports = function(app) {
 
   // Allow access to backend API running on different port
   app.use(cors({
-    origin: 'http://localhost:2368'
+    origin: ['http://localhost:2368', 'https://petersandor.github.io']
   }));
 
   // Insert routes below
