@@ -14,7 +14,7 @@ This repo is the backend part for [books-app-client](https://github.com/petersan
 - [Node.js and NPM](nodejs.org) >= v0.12.0
 - [Ruby](https://www.ruby-lang.org) and then `gem install sass`
 - [Grunt](http://gruntjs.com/) (`npm install --global grunt-cli`)
-- [SQLite](https://www.sqlite.org/quickstart.html)
+- [PostgreSQL](https://www.postgresql.org/) or [SQLite](https://www.sqlite.org/quickstart.html)
 
 ### Developing
 
